@@ -197,7 +197,7 @@ export const roadmap: RoadmapStep[] = [
 
 export const navLinks = [
   { label: 'About Us', href: '/about' },
-  { label: 'Roadmap', href: '/frontend' },
+  { label: 'Frontend', href: '/frontend' },
   { label: 'Blogs', href: '/blog' },
   // { label: 'Search', href: '/#search' },
 ]
